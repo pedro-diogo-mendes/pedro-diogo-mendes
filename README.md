@@ -1,4 +1,4 @@
-<img align="center"> [![MasterHead](https://media3.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif)](https://rishavchanda.io) </img>
+[![MasterHead](https://media2.giphy.com/media/GrRgIa839nAwRa2qKW/giphy.gif?cid=790b7611fd8ca291aee3281a1052e81226ec506779e25d60&rid=giphy.gif&ct=g)](https://rishavchanda.io)
 <h1 align="center"> Hi there, I'm Pedro, welcome to my profile 👋</h1>
 
 `🍔 Food Engineer Passionate About Technology 💻`
